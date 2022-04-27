@@ -23,6 +23,7 @@ class StorageInfo {
   int get availableGB => availableBytes ~/ pow(2, 30);
   int get availableMB => availableBytes ~/ pow(2, 20);
 
+
   String get rootDir => appFilesDir
       .split("/")
       .sublist(0, appFilesDir.split("/").length - 4)
