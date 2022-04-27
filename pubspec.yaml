@@ -1,7 +1,8 @@
 name: flutter_all_path_provider
 description: App files directory, root storage, and available space for ext storage and SD card on Android
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/ankushmishra2903-official/flutter_all_path_provider.git
+issue_tracker: https://github.com/ankushmishra2903-official/flutter_all_path_provider/issues
 
 environment:
   sdk: ">=2.16.2 <3.0.0"
